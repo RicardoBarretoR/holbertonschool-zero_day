@@ -1,0 +1,9 @@
+git add
+git commit -m
+git push origin master
+git checkout
+git branch
+git push origin --delete
+git pull
+git init
+git --all
