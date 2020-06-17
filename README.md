@@ -11,7 +11,5 @@
 # holbertonschool-low_level_programming
 # holbertonschool-low_level_programming
 # holbertonschool-low_level_programming
-# start_know-shell
-# start_know-shell
-# other
-# Readme
+
+# sorting_algorithms
